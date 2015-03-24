@@ -1,0 +1,249 @@
+body {
+    margin-top: 61px;
+    position: relative;
+    font-family:'Open Sans', sans-serif;
+}
+section#navigation {
+    background: #02918c;
+    padding: 0px 20px;
+    min-height: 61px;
+}
+nav.navbar {
+    margin-bottom: -1px;
+}
+span.yellow {
+    color: #cfc91d;
+}
+a.navbar-brand {
+    color: #FFF;
+}
+.nav>li>a {
+    color: #FFF;
+    font-size: 12px;
+    padding: 20px;
+    font-weight: 800;
+}
+/*.nav>li>a:focus {
+    background-color: #016F6C;
+}*/
+ .nav>li>a:hover {
+    text-decoration: none;
+    background-color: #007C78;
+    color: #FFF;
+}
+a.navbar-brand {
+    font-weight: 800;
+    font-size: 26px;
+}
+span.icon-bar {
+    background: #FFF;
+}
+.navbar-toggle {
+    margin-right: 0px;
+    background-color: rgb(0, 129, 125);
+}
+li.active>a {
+    color: #FFFFFF;
+    background: #016F6C;
+}
+.navbar-header {
+    padding: 5px 0px;
+}
+/***************   SLIDES   *****************/
+ .flexslider {
+    border: none;
+}
+.flex-direction-nav a {
+    height: 50px;
+}
+li.slide1 {
+    background-image: url(../img/header-bg.jpg);
+    height: 728px;
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+li.slide2 {
+    background-image: url(../img/header-bg.jpg);
+    height: 728px;
+    margin: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center top;
+}
+.text-header {
+    color: #FFF;
+}
+.text-header h1 {
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 19px;
+    font-size: 68px;
+    margin-top: 10px;
+    color: #FFF;
+}
+.text-header h2 {
+    font-size: 30px;
+}
+.text-header h3 {
+    font-size: 18px;
+    margin-top: 10px;
+}
+.row.row-text {
+    text-align: center;
+    margin-top: 170px;
+}
+.row-text .separator {
+    margin: 50px auto;
+}
+button.yellow-button {
+    background: #cfc91d;
+    border: none;
+    padding: 10px 40px;
+    font-size: 14px;
+    font-weight: 800;
+}
+button.yellow-button:hover {
+    background: #FFF600;
+}
+section h1 {
+    color: #02918C;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 46px;
+}
+p.separator {
+    font-size: 16px;
+    color: #7e8287;
+    margin: 20px 0px;
+}
+p {
+    font-size: 16px;
+    color: #7e8287;
+    line-height: 40px;
+}
+span.extrbold {
+    font-weight: 700;
+    font-size: 23px;
+}
+.row.grid-4 {
+    margin-top: 50px;
+}
+.grid-4 div+div {
+    border-left: solid 1px #d9dbdb;
+}
+.grid-4>div {
+    min-height: 200px;
+    padding: 20px 50px;
+}
+.grid-4 .h1 {
+    font-size: 16px;
+    font-weight: 700;
+    color: #7e8287;
+}
+.grid-4 p {
+    color: #7e8287;
+    font-size: 11px;
+    line-height: 20px;
+    margin-top: 20px;
+}
+section#services {
+    margin-top: 40px;
+    background-color: #f0f0e8;
+    text-align: left;
+    padding: 50px 0px;
+    background-image: url(../img/bg-compu.jpg);
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: cover;
+}
+#services h1 {
+}
+section#aboutme {
+    text-align: center;
+}
+.grid-4.dos>div {
+    padding: 20px 70px 20px 0px;
+}
+.grid-4.dos>div+div {
+    border: none;
+}
+section#mywork {
+    text-align: center;
+    margin-top: 60px;
+}
+#mywork .container {
+    padding: 0px 20%;
+}
+.work {
+    min-height: 210px;
+    background: #DDD;
+    background-size: cover;
+}
+#mywork .container-fluid {
+    margin-top: 50px;
+}
+.work .data h1 {
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: inherit;
+}
+.work .data {
+    background: rgba(2, 145, 140, 0.85);
+    margin: 10%;
+    width: 80%;
+    height: 80%;
+    opacity: 0;
+}
+.work p {
+    color: white;
+    font-size: 13px;
+    line-height: 22px;
+}
+.data>.data-in {
+    padding: 10px;
+}
+.work:hover .data {
+    opacity: 1;
+}
+#image1 {
+    background-image: url(../img/mywork/1.jpg);
+}
+#image2 {
+    background-image: url(../img/mywork/2.jpg);
+}
+#image3 {
+    background-image: url(../img/mywork/3.jpg);
+}
+#image4 {
+    background-image: url(../img/mywork/4.jpg);
+}
+#image5 {
+    background-image: url(../img/mywork/5.jpg);
+}
+#image6 {
+    background-image: url(../img/mywork/6.jpg);
+}
+#image7 {
+    background-image: url(../img/mywork/7.jpg);
+}
+#image8 {
+    background-image: url(../img/mywork/8.jpg);
+}
+
+/* AJUSTES EN PANTALLAS PEQUEÑAS */
+ @media (max-width:768px) {
+    section#services {
+        background-image: none;
+        text-align: center;
+    }
+    .grid-4.dos>div {
+        padding: 40px;
+    }
+    .text-header h1 {
+        font-size: 40px;
+        letter-spacing: 10px;
+    }
+}
