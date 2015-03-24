@@ -174,7 +174,7 @@ section#mywork {
     margin-top: 60px;
 }
 #mywork .container {
-    padding: 0px 20%;
+    padding: 0px;
 }
 .work {
     min-height: 210px;
@@ -289,7 +289,7 @@ footer {
     color: #7e8287;
     padding: 30px;
 }
-/* AJUSTES EN PANTALLAS PEQUEÑAS */
+/* AJUSTES EN PANTALLAS PEQUEÃ‘AS */
  @media (max-width:768px) {
     section#services {
         background-image: none;
