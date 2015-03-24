@@ -179,9 +179,7 @@ section#mywork {
     text-align: center;
     margin-top: 60px;
 }
-#mywork .container {
-    padding: 0px;
-}
+
 .work {
     min-height: 210px;
     background: #DDD;
