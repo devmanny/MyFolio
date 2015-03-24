@@ -232,7 +232,63 @@ section#mywork {
 #image8 {
     background-image: url(../img/mywork/8.jpg);
 }
-
+section#contactme {
+    margin-top: 80px;
+    text-align: center;
+}
+section#contact-form {
+    background-color: #0b0b0b;
+    padding-top: 40px;
+    text-align: center;
+    margin-top: 60px;
+}
+.form-control {
+    background: transparent;
+    border: none;
+    border-bottom: solid 1px #DDD;
+    border-radius: 0px;
+    padding: 40px 0px;
+    text-align: center;
+    margin-bottom: 20px;
+    display: inline-block;
+    color: #fff;
+    outline: none;
+}
+textarea.form-control {
+    border-top: solid 1px #DDD;
+    width: 75%;
+}
+.form-control+span>label {
+    text-align: center;
+    color: #999;
+    display: block;
+    margin: 35px 0px 20px;
+    font-weight: 400;
+}
+input#name {
+    width: 50%;
+}
+input#email {
+    width: 50%;
+}
+textarea + button.submit {
+    background-color: #CFC91D;
+    border: none;
+    display: block;
+    margin: 50px auto;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding: 15px 70px;
+    letter-spacing: 2px;
+}
+textarea + button.submit:hover {
+    background-color: #FCF300;
+}
+footer {
+    background: #000;
+    color: #7e8287;
+    padding: 30px;
+}
 /* AJUSTES EN PANTALLAS PEQUEÑAS */
  @media (max-width:768px) {
     section#services {
