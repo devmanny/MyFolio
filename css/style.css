@@ -1,4 +1,9 @@
 
+:focus {
+  outline-color: transparent;
+  outline-style: none;
+}
+
 body {
     margin-top: 61px;
     position: relative;
@@ -249,12 +254,11 @@ section#contact-form {
     border-bottom: solid 1px #DDD;
     border-radius: 0px;
     padding: 0px 0px 20px 0px;
-    line-height: 50px;
     text-align: center;
     margin-bottom: 20px;
     display: inline-block;
     color: #fff;
-    outline: none;
+    outline: 0;
 }
 
 textarea.form-control {
