@@ -1,3 +1,11 @@
+
+::-webkit-input-placeholder { color:#999; }
+::-moz-placeholder { color:#999; } /* firefox 19+ */
+:-moz-placeholder { color:#999; } /* firefox 19- */
+:-ms-input-placeholder { color:#999; } /* ie */
+input:-moz-placeholder { color:#999; }
+
+
 body {
     margin-top: 61px;
     position: relative;
@@ -164,7 +172,7 @@ section#aboutme {
     text-align: center;
 }
 .grid-4.dos>div {
-    padding: 20px 70px 20px 0px;
+    padding: 20px 50px 20px 0px;
 }
 .grid-4.dos>div+div {
     border: none;
@@ -243,7 +251,7 @@ section#contact-form {
     margin-top: 60px;
 }
 .form-control {
-    background: transparent;
+    background: #0b0b0b;
     border: none;
     border-bottom: solid 1px #DDD;
     border-radius: 0px;
@@ -289,7 +297,7 @@ footer {
     color: #7e8287;
     padding: 30px;
 }
-/* AJUSTES EN PANTALLAS PEQUEÃ‘AS */
+/* AJUSTES EN PANTALLAS PEQUENAS */
  @media (max-width:768px) {
     section#services {
         background-image: none;
