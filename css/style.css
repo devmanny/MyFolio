@@ -1,11 +1,4 @@
 
-::-webkit-input-placeholder { color:#999; }
-::-moz-placeholder { color:#999; } /* firefox 19+ */
-:-moz-placeholder { color:#999; } /* firefox 19- */
-:-ms-input-placeholder { color:#999; } /* ie */
-input:-moz-placeholder { color:#999; }
-
-
 body {
     margin-top: 61px;
     position: relative;
