@@ -12,7 +12,7 @@ de PSD a HTML de la plantilla MyFolio
 * Chrome
 * Opera Next
 * FireFox
-* Safari
+* Safari (ipad y desktop)
 * IE10
 
 Vista previa: [https://manny-folio.herokuapp.com/](https://manny-folio.herokuapp.com/)
