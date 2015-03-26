@@ -15,4 +15,12 @@ de [PSD](https://dribbble.com/shots/1614563-Free-PSD-for-Single-Page-Portfolio) 
 * Safari (ipad y desktop)
 * IE10
 
+## Preview
 https://manny-folio.herokuapp.com/
+
+## Capturas
+### Pantalla normal
+![Full](http://manny-folio.herokuapp.com/img/md.jpeg)
+### Telefono
+![smartphone](http://manny-folio.herokuapp.com/img/xs.jpeg)
+![smartphone](http://manny-folio.herokuapp.com/img/xs-2.jpeg)
