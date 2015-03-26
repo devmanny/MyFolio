@@ -1,5 +1,5 @@
 # MyFolio
-de PSD a HTML de la plantilla MyFolio
+de [PSD](https://dribbble.com/shots/1614563-Free-PSD-for-Single-Page-Portfolio) a [HTML](https://manny-folio.herokuapp.com/) de la plantilla MyFolio  
 
 ## Funcionalidades
 * Diseño responsivo
@@ -15,4 +15,4 @@ de PSD a HTML de la plantilla MyFolio
 * Safari (ipad y desktop)
 * IE10
 
-[PSD by Ashok](https://dribbble.com/shots/1614563-Free-PSD-for-Single-Page-Portfolio) | [Vista en vivo de la plantilla](https://manny-folio.herokuapp.com/)
+https://manny-folio.herokuapp.com/
