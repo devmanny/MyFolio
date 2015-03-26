@@ -15,4 +15,4 @@ de PSD a HTML de la plantilla MyFolio
 * Safari (ipad y desktop)
 * IE10
 
-Link: [[https://dribbble.com/shots/1614563-Free-PSD-for-Single-Page-Portfolio](PSD by Ashok)] |  [https://manny-folio.herokuapp.com/](Live Preview)]
+Link: [PSD by Ashok](https://dribbble.com/shots/1614563-Free-PSD-for-Single-Page-Portfolio)] | (Live Preview)[https://manny-folio.herokuapp.com/)]
