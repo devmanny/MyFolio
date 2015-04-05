@@ -1,14 +1,14 @@
 # MyFolio
-de [PSD](https://dribbble.com/shots/1614563-Free-PSD-for-Single-Page-Portfolio) a [HTML](https://manny-folio.herokuapp.com/) de la plantilla MyFolio  
+from [PSD](https://dribbble.com/shots/1614563-Free-PSD-for-Single-Page-Portfolio) to [HTML](https://manny-folio.herokuapp.com/) 
 
-## Funcionalidades
-* Diseño responsivo
-* Implementacion de FlexSlider
-* Implementacion de WOW para animaciones con scroll
-* Uso de ScrollSpy de bootstrap
-* Uso de SweetAlerts para los mensajes del formulario
+## Features
+* Responsive design
+* FlexSlider
+* WOWJS
+* ScrollSpy's Bootstrap
+* SweetAlerts
 
-## Testeado y funcionando en
+## Tested and it works in:
 * Chrome
 * Opera Next
 * FireFox
@@ -18,9 +18,9 @@ de [PSD](https://dribbble.com/shots/1614563-Free-PSD-for-Single-Page-Portfolio) 
 ## Preview
 https://manny-folio.herokuapp.com/
 
-## Capturas
-### Pantalla normal
+## Screenshots
+### Desktop
 ![Full](http://manny-folio.herokuapp.com/img/md.jpeg)
-### Telefono
+### Smartphone
 ![smartphone](http://manny-folio.herokuapp.com/img/xs.jpeg)
 ![smartphone](http://manny-folio.herokuapp.com/img/xs-2.jpeg)
